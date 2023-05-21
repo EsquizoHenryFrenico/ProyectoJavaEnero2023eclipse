@@ -8,6 +8,8 @@ public class PintaEmojis {
 			System.out.printf("\uD83D\uDE00");
 			
 		}
+
+		
 	}
 	
 
